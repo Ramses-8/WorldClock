@@ -1,0 +1,15 @@
+.clock{
+    display: flex;
+    flex-direction: column;
+}
+
+.clock__time{
+    width: 250px;
+    height: 45px;
+    background-color: #Fe7F9C;
+    border-radius: 16px;
+    font-family: Arial;
+    text-align: center;
+    font-size: 35px;
+    color: white; 
+}
